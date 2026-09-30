@@ -1,4 +1,4 @@
-#include "Resources.h"
+#include "Resources.hxx"
 
 IDR_FONT_TEXT_REGULAR   RCDATA "assets\\fonts\\Sora-Regular.ttf"
 IDR_FONT_TEXT_MEDIUM    RCDATA "assets\\fonts\\Sora-SemiBold.ttf"
